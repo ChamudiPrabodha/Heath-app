@@ -1,0 +1,44 @@
+[
+  {
+    "id": "vit-1790939637973",
+    "patientId": "CARE-8133",
+    "hr": 100,
+    "bp": "130",
+    "spo2": 98,
+    "temp": "35",
+    "glucose": 96,
+    "notes": "No",
+    "recordedBy": "Kusum siri",
+    "status": "Normal",
+    "statusColor": "#10B981",
+    "timestamp": 1790939637973
+  },
+  {
+    "id": "vit-1790928362231",
+    "patientId": "CARE-8133",
+    "hr": 85,
+    "bp": "160",
+    "spo2": 100,
+    "temp": "40",
+    "glucose": 175,
+    "notes": "No",
+    "recordedBy": "Kusum siri",
+    "status": "Fever",
+    "statusColor": "#EF4444",
+    "timestamp": 1790928362231
+  },
+  {
+    "id": "vit-1790882903118",
+    "patientId": "CARE-8133",
+    "hr": 77,
+    "bp": "111",
+    "spo2": 96,
+    "temp": "37",
+    "glucose": 110,
+    "notes": "No",
+    "recordedBy": "Kusum siri",
+    "status": "Normal",
+    "statusColor": "#10B981",
+    "timestamp": 1790882903118
+  }
+]

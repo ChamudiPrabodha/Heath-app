@@ -1,0 +1,297 @@
+[
+  {
+    "id": "CARE-3134",
+    "name": "Sumudu shehani",
+    "email": "sumudu@gmail.com",
+    "age": 72,
+    "condition": "Dementia (Moderate) . High Wander Risk",
+    "patientPhone": "0752345869",
+    "emergencyPhone": "",
+    "status": "idle",
+    "batteryLevel": 85,
+    "lastSeen": null,
+    "safeZoneRadius": 500,
+    "medications": [
+      {
+        "id": "m-sumudu-1",
+        "name": "Donepezil (Aricept)",
+        "dosage": "10 mg • 1 Tablet",
+        "time": "08:00 AM",
+        "period": "Morning with breakfast",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take with breakfast and a glass of water for cognitive support",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Taken",
+        "isActive": true,
+        "dayStatuses": {
+          "2026-10-01": "Taken",
+          "2026-10-02": "Taken"
+        },
+        "createdAt": 1790887628734,
+        "updatedAt": 1790887628734
+      },
+      {
+        "id": "m-sumudu-2",
+        "name": "Memantine HCl",
+        "dosage": "10 mg • 1 Tablet",
+        "time": "01:00 PM",
+        "period": "Afternoon with lunch",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take after lunch meal to reduce NMDA receptor overactivity",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Taken",
+        "isActive": true,
+        "dayStatuses": {
+          "2026-10-01": "Taken",
+          "2026-10-02": "Taken"
+        },
+        "createdAt": 1790887628734,
+        "updatedAt": 1790887628734
+      },
+      {
+        "id": "m-sumudu-3",
+        "name": "Amlodipine (Blood Pressure)",
+        "dosage": "5 mg • 1 Tablet",
+        "time": "08:00 PM",
+        "period": "Evening with dinner",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take with dinner. Check blood pressure twice weekly.",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Missed",
+        "isActive": true,
+        "dayStatuses": {
+          "2026-10-01": "Taken",
+          "2026-10-02": "Pending"
+        },
+        "createdAt": 1790887628734,
+        "updatedAt": 1790887628734
+      }
+    ],
+    "activities": [
+      {
+        "id": "act-1790844783604",
+        "title": "Afternoon Herbal Tea & Relax",
+        "time": "03:30 PM",
+        "duration": "20 mins",
+        "category": "Wellness",
+        "completed": true,
+        "caregiverName": "Sarah Vance",
+        "createdAt": 1790844783604
+      }
+    ],
+    "adherence": {
+      "daily": 85,
+      "weekly": 85,
+      "monthly": 85,
+      "totalLogs": 0,
+      "recentMissedCount": 0,
+      "recentTakenCount": 0,
+      "aiRiskIndicator": {
+        "level": "Low",
+        "color": "#10B981",
+        "score": 85,
+        "reason": "Patient shows stable medication compliance within scheduled clinical windows.",
+        "lastEvaluated": 1791089673118
+      }
+    }
+  },
+  {
+    "id": "CARE-1166",
+    "name": "Ruwani Chaya",
+    "email": "ruwani@gmail.com",
+    "age": null,
+    "condition": "Dementia (Moderate) • High Wander Risk",
+    "patientPhone": "0714556987",
+    "emergencyPhone": "",
+    "status": "idle",
+    "batteryLevel": 85,
+    "lastSeen": null,
+    "safeZoneRadius": 500,
+    "medications": [],
+    "activities": [],
+    "adherence": {
+      "daily": 85,
+      "weekly": 85,
+      "monthly": 85,
+      "totalLogs": 0,
+      "recentMissedCount": 0,
+      "recentTakenCount": 0,
+      "aiRiskIndicator": {
+        "level": "Low",
+        "color": "#10B981",
+        "score": 85,
+        "reason": "Patient shows stable medication compliance within scheduled clinical windows.",
+        "lastEvaluated": 1791089673118
+      }
+    }
+  },
+  {
+    "id": "CARE-5129",
+    "name": "Mark john",
+    "email": "",
+    "age": 85,
+    "condition": "Dementia (Moderate) • High Wander Risk",
+    "patientPhone": "0785463125",
+    "emergencyPhone": "0785463125",
+    "status": "idle",
+    "batteryLevel": 85,
+    "lastSeen": null,
+    "safeZoneRadius": 500,
+    "medications": [],
+    "activities": [],
+    "adherence": {
+      "daily": 85,
+      "weekly": 85,
+      "monthly": 85,
+      "totalLogs": 0,
+      "recentMissedCount": 0,
+      "recentTakenCount": 0,
+      "aiRiskIndicator": {
+        "level": "Low",
+        "color": "#10B981",
+        "score": 85,
+        "reason": "Patient shows stable medication compliance within scheduled clinical windows.",
+        "lastEvaluated": 1791089673118
+      }
+    }
+  },
+  {
+    "id": "CARE-8133",
+    "name": "Chamudi Prabodha",
+    "email": "www.chamudiprabodha345@gmail.com",
+    "age": null,
+    "condition": "Dementia (Moderate) • High Wander Risk",
+    "patientPhone": "0762498141",
+    "emergencyPhone": "",
+    "status": "idle",
+    "batteryLevel": 85,
+    "lastSeen": null,
+    "safeZoneRadius": 500,
+    "medications": [
+      {
+        "id": "m1",
+        "name": "Donepezil (Aricept)",
+        "dosage": "10 mg • 1 Tablet",
+        "time": "08:00 AM",
+        "period": "Morning with breakfast",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take 1 tablet every morning with breakfast and water",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Missed",
+        "isActive": true,
+        "createdAt": 1790887628734,
+        "updatedAt": 1790939649843,
+        "dayStatuses": {
+          "2026-10-02": "Taken"
+        }
+      },
+      {
+        "id": "m2",
+        "name": "Vitamin B-Complex & D3",
+        "dosage": "1 Capsule",
+        "time": "01:00 PM",
+        "period": "Afternoon with lunch",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take with full lunch meal for neurological support",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Taken",
+        "isActive": true,
+        "createdAt": 1790887628734,
+        "updatedAt": 1790939652475,
+        "dayStatuses": {
+          "2026-10-02": "Taken"
+        }
+      },
+      {
+        "id": "m3",
+        "name": "Amlodipine (Blood Pressure)",
+        "dosage": "5 mg • 1 Tablet",
+        "time": "08:00 PM",
+        "period": "Evening with dinner",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take with dinner. Monitor blood pressure periodically.",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Taken",
+        "isActive": true,
+        "createdAt": 1790887628734,
+        "updatedAt": 1790939726209,
+        "dayStatuses": {
+          "2026-10-02": "Taken"
+        }
+      },
+      {
+        "id": "m4",
+        "name": "Omega-3 Fish Oil",
+        "dosage": "1000 mg • 1 Softgel",
+        "time": "09:30 PM",
+        "period": "Bedtime",
+        "durationDays": 30,
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-31",
+        "instructions": "Take with a glass of water before sleep",
+        "prescribedBy": "Dr. Sarah Jenkins",
+        "status": "Taken",
+        "isActive": true,
+        "createdAt": 1790887628734,
+        "updatedAt": 1790939732047,
+        "dayStatuses": {
+          "2026-10-02": "Taken"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "id": "act-1790928454285",
+        "title": "Go to barth",
+        "time": "02:00 PM",
+        "duration": "30 mins",
+        "category": "Wellness",
+        "completed": true,
+        "caregiverName": "Kusum siri",
+        "createdAt": 1790928874921
+      }
+    ],
+    "doctorName": "Vimukthi Perera",
+    "adherence": {
+      "daily": 85,
+      "weekly": 85,
+      "monthly": 85,
+      "totalLogs": 0,
+      "recentMissedCount": 0,
+      "recentTakenCount": 0,
+      "aiRiskIndicator": {
+        "level": "Low",
+        "color": "#10B981",
+        "score": 85,
+        "reason": "Patient shows stable medication compliance within scheduled clinical windows.",
+        "lastEvaluated": 1791089673118
+      }
+    },
+    "vitals": {
+      "id": "vit-1790939637973",
+      "patientId": "CARE-8133",
+      "hr": 100,
+      "bp": "130",
+      "spo2": 98,
+      "temp": "35",
+      "glucose": 96,
+      "notes": "No",
+      "recordedBy": "Kusum siri",
+      "status": "Normal",
+      "statusColor": "#10B981",
+      "timestamp": 1790939637973
+    }
+  }
+]
